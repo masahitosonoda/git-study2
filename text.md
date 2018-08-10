@@ -1,0 +1,1 @@
+-uをつけてpushすると、push先のブランチをTracking Branch（Upstream Branch）として登録するよう設定されます。これを設定されているとデフォルトでpushやpullの対象になります。
